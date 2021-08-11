@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# React Prject to understand and apply basic concepts such as
+
+create an application
+
+how componentes are created and reused
+
+save file to localstorage
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
