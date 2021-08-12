@@ -1,17 +1,19 @@
-import React from "react";
-import { ListaDeNotas } from "./componentes/listadenotas";
+//importando componentes
+import React, { Component } from "react";
+import FormCadastro  from "./componentes/FormCadastro";
+import  ListaDeNotas from "./componentes/ListaDeNotas";
+//importando css
+import "./assets/app.css"
+import './assets/index.css';
 //função que será renderiada no index.js
-function App() {
-  return (
+class App extends Component {
+  render(){return (
     //criando formulário para criar notas
-    <main>
-    <form>
-      <input type="text" placeholder="Título"/>
-      <textarea placeholder="Escreva sua nota..."></textarea>
-      <button>Criar nota</button>
-    </form>
+    <main className="conteudo">
+    <FormCadastro/>
     <ListaDeNotas/>
     </main>
   );
+}
 }
 export default App;
