@@ -1,4 +1,6 @@
-# React Prject to understand and apply basic concepts such as
+# React Project to understand and apply basic React Concepts
+
+##
 
 create an application
 
