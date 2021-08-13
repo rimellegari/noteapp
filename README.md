@@ -1,6 +1,6 @@
 # React Project to understand and apply basic React Concepts
 
-###Topics worked so far
+### `Topics worked so far`
 #
 
 create an application
@@ -29,7 +29,7 @@ what is state and how to use it
 
 Dinamically change the information
 
-###Features and Topics to implement/work
+###`Features and Topics to implement/work`
 #
 
 Edit and Delete Notes
