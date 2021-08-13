@@ -1,12 +1,43 @@
 # React Project to understand and apply basic React Concepts
 
-##a
+###Topics worked so far
+#
 
 create an application
 
-how componentes are created and reused
+how to create class components
 
-save file to localstorage
+how objects are rendered
+
+hierarchy among components (child/parents)
+
+how to write js code within JSX files
+
+how to to work with CSS and React
+
+BEM CSS structure
+
+Components and key property
+
+how to handle this and bind
+
+Props atributes
+
+How to send information amaing objects
+
+what is state and how to use it
+
+Dinamically change the information
+
+###Features and Topics to implement/work
+#
+
+Edit and Delete Notes
+
+Components Lyfe Cycle
+
+Function based rendering
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
