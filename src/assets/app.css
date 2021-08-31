@@ -1,7 +1,20 @@
 .conteudo {
     display: flex;
   }
-  
+.conteudo-principal {
+   flex-grow:  3;
+   background-color: var(--bkg-color);
+   color: var(--fundo-detalhes);
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
   :root {
     --primaria: #58a4b0;
     --secundaria: #373f51;
